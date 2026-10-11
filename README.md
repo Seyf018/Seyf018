@@ -2,7 +2,7 @@
 
 M.Sc. researcher at [ÉTS Montréal](https://www.etsmtl.ca/), working on decision support that combines **mixed-integer programming** and **machine learning**.
 
-My thesis plans spraying and harvesting against spruce budworm outbreaks in Gaspésie, Quebec: a joint optimization model with a Fix-and-Dive heuristic (manuscript under review), and a PPO + graph-network policy in development.
+My thesis plans spraying and harvesting against spruce budworm outbreaks in Gaspésie, Quebec: a joint optimization model with a Fix-and-Dive heuristic (manuscript under review), and an interpretable PPO policy for joint spraying and harvesting in development.
 
 Portfolio: https://seyf018.github.io
 
